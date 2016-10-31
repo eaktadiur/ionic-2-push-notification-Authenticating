@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        },
+        "cordova-plugin-googleplus": {
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "507923340633",
+            "PACKAGE_NAME": "com.hopesoft.pushnotification"
+        }
+    },
+    "dependent_plugins": {}
+}

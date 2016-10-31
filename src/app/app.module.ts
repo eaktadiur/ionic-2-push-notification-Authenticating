@@ -24,6 +24,12 @@ const cloudSettings: CloudSettings = {
         'iconColor': '#343434'
       }
     }
+  },
+  'auth': {
+    'google': {
+      'webClientId': '815498848617-1vi9n6pnh217cuh52vn4fa79mklq6vhr.apps.googleusercontent.com',
+      'scope': []
+    }
   }
 };
 
