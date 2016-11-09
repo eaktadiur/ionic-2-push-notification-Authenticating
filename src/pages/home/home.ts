@@ -13,6 +13,7 @@ export class HomePage {
   }
 
   login() {
+    console.log('clickv');
     this.googleAuth.login().then((success) => {
       alert(JSON.stringify(success));
     })
